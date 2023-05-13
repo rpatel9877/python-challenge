@@ -1,2 +1,2 @@
-# python-challengge
+# python-challenge
 Homework Assignment for Week 3
